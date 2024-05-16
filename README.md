@@ -1,2 +1,2 @@
 # Colored-Religions
-Adds multi-colored religions.
+Adds multi-colored religions. Compatible with "Gods & Kings".
