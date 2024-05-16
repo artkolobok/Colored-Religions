@@ -11,7 +11,7 @@ ReligionPortraits/Buddhism
   orig: 128, 128
   offset: 0,0
   index: -1
-ReligionPortraits/Catholicism
+ReligionPortraits/Christianity
   rotate: false
   xy: 128, 0
   size: 128, 128
@@ -95,7 +95,7 @@ ReligionPortraits/Eastern Orthodoxy
   orig: 128, 128
   offset: 0,0
   index: -1
-ReligionPortraits/Christianity
+ReligionPortraits/Protestantism
   rotate: false
   xy: 384, 256
   size: 128, 128
