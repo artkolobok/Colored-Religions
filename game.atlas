@@ -1,0 +1,104 @@
+
+Religions.png
+size: 640, 384
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ReligionPortraits/Buddhism
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0,0
+  index: -1
+ReligionPortraits/Catholicism
+  rotate: false
+  xy: 128, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0,0
+  index: -1
+ReligionPortraits/Confucianism
+  rotate: false
+  xy: 256, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0,0
+  index: -1
+ReligionPortraits/Hinduism
+  rotate: false
+  xy: 384, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0,0
+  index: -1
+ReligionPortraits/Islam
+  rotate: false
+  xy: 512, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0,0
+  index: -1
+ReligionPortraits/Judaism
+  rotate: false
+  xy: 0, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0,0
+  index: -1
+ReligionPortraits/Shinto
+  rotate: false
+  xy: 128, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0,0
+  index: -1
+ReligionPortraits/Sikhism
+  rotate: false
+  xy: 256, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0,0
+  index: -1
+ReligionPortraits/Taoism
+  rotate: false
+  xy: 384, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0,0
+  index: -1
+ReligionPortraits/Tengriism
+  rotate: false
+  xy: 512, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0,0
+  index: -1
+ReligionPortraits/Zoroastrianism
+  rotate: false
+  xy: 0, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0,0
+  index: -1
+  ReligionPortraits/Pantheon
+  rotate: false
+  xy: 128, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0,0
+  index: -1
+ReligionPortraits/Eastern Orthodoxy
+  rotate: false
+  xy: 256, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0,0
+  index: -1
+ReligionPortraits/Christianity
+  rotate: false
+  xy: 384, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0,0
+  index: -1
